@@ -20,3 +20,6 @@ For this paper we merely listened to a talk and thought a little bit.
 
 # Section added on laptop
 This has been added on the lapto version
+
+# Figures (added on paper)
+This is a section with figures.
