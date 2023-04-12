@@ -23,3 +23,6 @@ This has been added on the lapto version
 
 # Figures (added on paper)
 This is a section with figures.
+
+# Conclusions
+We have made a lot of progress in understanding how Git/GitHub works
