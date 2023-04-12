@@ -1,5 +1,5 @@
 # Title
-This is how we should teach Git and GitHub ot MSc Economics and Data Science Students
+This is how we should teach Git and GitHub ot MSc Economics and Data Science Students - NEW TITLE
 
 # Author
 Ralf Becker
