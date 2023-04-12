@@ -14,3 +14,6 @@ Jones (2019) conducted some studies in this area of work.
 
 # Simulations
 Simulations will support
+
+# Methodology
+For this paper we merely listened to a talk and thought a little bit.
